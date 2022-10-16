@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-[!](./layout/layout.png)
+[](./layout/layout.png)
 
 ## Techs
 
